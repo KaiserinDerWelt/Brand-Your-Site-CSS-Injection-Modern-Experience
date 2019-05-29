@@ -1,0 +1,5 @@
+<!--Custom code to hide the quick launch-->
+
+ul.ms-Nav-navItems{
+    display:none;
+}
