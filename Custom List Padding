@@ -1,0 +1,6 @@
+<!--This code allows you to set the padding between the menu bar of SharePoint and the document library section-->
+<!--Default Value is 32px-->
+
+.sp-SiteHub-innerContent {
+padding:10px;
+}
