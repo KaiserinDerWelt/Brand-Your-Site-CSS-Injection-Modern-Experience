@@ -1,5 +1,12 @@
 <!--Custom code to hide the quick launch-->
 
+<!--Code to hide elements of the LIST in Quick Lauch-->
+
 ul.ms-Nav-navItems{
     display:none;
+}
+<!--Code to hide the Quick Lauch container with List elements-->
+
+.Files-leftNav {
+  display:none;
 }
