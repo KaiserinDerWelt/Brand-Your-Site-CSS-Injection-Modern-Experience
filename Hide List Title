@@ -1,0 +1,8 @@
+<!--Hide List title on modern experience-->
+
+.StandaloneList-header {
+  Display:none;
+}
+
+<!--Remember that microsoft changes the name of the elements once in a while, so if your site breaks after some time
+check the name of the elements with your developer tools-->
